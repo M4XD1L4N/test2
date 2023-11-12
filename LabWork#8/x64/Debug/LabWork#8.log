@@ -1,0 +1,3 @@
+﻿  Msin.cpp
+C:\Users\MaxDilan\Desktop\LabWork#8\Msin.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LabWork#8.vcxproj -> C:\Users\MaxDilan\Desktop\LabWork#8\x64\Debug\LabWork#8.exe
